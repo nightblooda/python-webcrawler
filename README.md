@@ -1,5 +1,6 @@
 <h1>Python Web Spider</h1>
-<ul><li>Store all the results in database</li>
+<ul><li>Simple use of python and database knowledge.</li>
+  <li>Store all the results in database</li>
 <li>Spider runs through all the links on the page</li>
 </ul>
 
